@@ -7,6 +7,7 @@ Prompt user for team member information and create a website based on that data.
 - Added a counter to display total number of members entered
 - Added a brief description in HTML file generated
 - Added error checking on submitting a unique ID #
+- ID will only accept numbers and show an error if you attempt to put in anything else
 
 Table of Contents
 
@@ -27,7 +28,7 @@ npm i
 ## 📐Usage
 Please see below for instructions on usage:
 
-Follow the instructions
+Must install dependencies.  You will be prompted for questions or will need to scroll for choices.  Please remember, ID must be unique and cannot be used for another team member.  If run again, the HTML will be overwritten so please rename or move if you would like to retain.
 
 ------------
 ## 📋License
