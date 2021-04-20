@@ -49,3 +49,5 @@ sungjk@uw.edu
 To test the program, please run the following:
 
 npm test
+
+![alt text](https://raw.githubusercontent.com/sungjk77/hw10-Team-Profile-Generator/master/dist/screenshot.JPG)
